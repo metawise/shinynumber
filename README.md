@@ -4,6 +4,7 @@ Returns first 100 shiny numbers from given digit.
 
 Result will be:
 
+```
 first 100 shinyNumbers: [
   { index: 1, num: 234 },
   { index: 2, num: 235 },
@@ -106,3 +107,4 @@ first 100 shinyNumbers: [
   { index: 99, num: 1469 },
   { index: 100, num: 1478 }
 ]
+```
